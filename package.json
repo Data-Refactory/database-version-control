@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Data-Refactory/database-version-control/issues"
   },
-  "homepage": "https://github.com/Data-Refactory/database-version-control#readme"
+  "homepage": "https://github.com/Data-Refactory/database-version-control#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
 }
