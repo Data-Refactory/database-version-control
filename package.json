@@ -1,0 +1,19 @@
+{
+  "name": "version_control",
+  "version": "1.0.0",
+  "description": "A version control system for a Database. Written originally for Postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Data-Refactory/database-version-control.git"
+  },
+  "author": "Doug Boyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Data-Refactory/database-version-control/issues"
+  },
+  "homepage": "https://github.com/Data-Refactory/database-version-control#readme"
+}
